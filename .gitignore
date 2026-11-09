@@ -1,0 +1,13 @@
+# Visual Studio build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Database backups
+*.bak
+
+# Temporary files
+~$*
